@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yomateo870130&show_icons=true&theme=radical" alt="yomateo870130" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yomateo870130&show_icons=true&locale=es" alt="onurugur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yomateo870130&show_icons=true&locale=es" alt="yomateo870130" /></p>
