@@ -8,8 +8,8 @@
 <a href="https://linkedin.com/in/yomateo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yomateo" height="30" width="40" /></a>
   <a href="https://rocketreach.co/yordany-oliva-mateos-email_229241116" target="blank"><img align="center" src="https://static.rocketreach.co/images/logo/logo_updated.svg" alt="yomateo" height="60" width="120" /></a>
 </p>
-<h3 align="center">Odoo Certifications</h3>
-<p align="center">
+<h3 align="left">Odoo Certifications</h3>
+<p align="left">
 <a href="https://www.ekuasoft.com/contactus" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO15CERT.png" width="120" alt="yomateo870130"/></a>
   <a href="https://www.ekuasoft.com/contactus" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO16CERT.png" width="120" alt="yomateo870130"/></a>
   <a href="https://www.ekuasoft.com/contactus" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO17CERT.png" width="120" alt="yomateo870130"/></a>
