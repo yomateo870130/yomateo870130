@@ -13,6 +13,7 @@
 <a href="https://www.ekuasoft.com/contactus" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO15CERT.png" width="120" alt="yomateo870130"/></a>
   <a href="https://www.ekuasoft.com/contactus" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO16CERT.png" width="120" alt="yomateo870130"/></a>
   <a href="https://www.ekuasoft.com/contactus" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO17CERT.png" width="120" alt="yomateo870130"/></a>
+  <a href="https://www.ekuasoft.com/contactus" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO19CERT.png" width="120" alt="yomateo870130"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
